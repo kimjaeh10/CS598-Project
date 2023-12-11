@@ -1,0 +1,11 @@
+MovieID,Score,Title,Genres
+260,3.266145694257164,Star Wars: Episode IV - A New Hope (1977),"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']"
+750,3.1828205404593612,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),"['Sci-Fi', 'War']"
+1196,3.1535935458149686,Star Wars: Episode V - The Empire Strikes Back (1980),"['Action', 'Adventure', 'Drama', 'Sci-Fi', 'War']"
+2571,3.149723465187041,"Matrix, The (1999)","['Action', 'Sci-Fi', 'Thriller']"
+541,3.0807373068432673,Blade Runner (1982),"['Film-Noir', 'Sci-Fi']"
+1214,3.0122392874905115,Alien (1979),"['Action', 'Horror', 'Sci-Fi', 'Thriller']"
+1240,3.010639997727258,"Terminator, The (1984)","['Action', 'Sci-Fi', 'Thriller']"
+1200,2.9784742740703005,Aliens (1986),"['Action', 'Sci-Fi', 'Thriller', 'War']"
+589,2.9725317000792506,Terminator 2: Judgment Day (1991),"['Action', 'Sci-Fi', 'Thriller']"
+1210,2.959220338223842,Star Wars: Episode VI - Return of the Jedi (1983),"['Action', 'Adventure', 'Romance', 'Sci-Fi', 'War']"

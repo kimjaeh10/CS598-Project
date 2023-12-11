@@ -1,0 +1,11 @@
+MovieID,Score,Title,Genres
+858,3.2778902905506246,"Godfather, The (1972)","['Action', 'Crime', 'Drama']"
+260,3.266145694257164,Star Wars: Episode IV - A New Hope (1977),"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']"
+1198,3.259274868682398,Raiders of the Lost Ark (1981),"['Action', 'Adventure']"
+2905,3.22951410883962,Sanjuro (1962),"['Action', 'Adventure']"
+2019,3.2235487408782215,Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954),"['Action', 'Drama']"
+2028,3.1679192804347447,Saving Private Ryan (1998),"['Action', 'Drama', 'War']"
+1196,3.1535935458149686,Star Wars: Episode V - The Empire Strikes Back (1980),"['Action', 'Adventure', 'Drama', 'Sci-Fi', 'War']"
+2571,3.149723465187041,"Matrix, The (1999)","['Action', 'Sci-Fi', 'Thriller']"
+1221,3.134335243373569,"Godfather: Part II, The (1974)","['Action', 'Crime', 'Drama']"
+1197,3.1277295167677086,"Princess Bride, The (1987)","['Action', 'Adventure', 'Comedy', 'Romance']"

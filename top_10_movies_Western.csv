@@ -1,0 +1,11 @@
+MovieID,Score,Title,Genres
+3607,3.5000496688741722,One Little Indian (1973),"['Comedy', 'Drama', 'Western']"
+3030,3.093934621900508,Yojimbo (1961),"['Comedy', 'Drama', 'Western']"
+1304,3.0214315066575193,Butch Cassidy and the Sundance Kid (1969),"['Action', 'Comedy', 'Western']"
+1283,2.945078591030845,High Noon (1952),['Western']
+1201,2.9345017805062756,"Good, The Bad and The Ugly, The (1966)","['Action', 'Western']"
+1266,2.912709436255787,Unforgiven (1992),['Western']
+3671,2.8887340725221784,Blazing Saddles (1974),"['Comedy', 'Western']"
+599,2.8740974312663052,"Wild Bunch, The (1969)",['Western']
+3365,2.8721688741721847,"Searchers, The (1956)",['Western']
+3037,2.8601495669031047,Little Big Man (1970),"['Comedy', 'Drama', 'Western']"

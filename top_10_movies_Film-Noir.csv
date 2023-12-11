@@ -1,0 +1,11 @@
+MovieID,Score,Title,Genres
+922,3.167386924052416,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),['Film-Noir']
+913,3.1289858438152804,"Maltese Falcon, The (1941)","['Film-Noir', 'Mystery']"
+3435,3.1182931395055347,Double Indemnity (1944),"['Crime', 'Film-Noir']"
+1252,3.0963259703244197,Chinatown (1974),"['Film-Noir', 'Mystery', 'Thriller']"
+541,3.0807373068432673,Blade Runner (1982),"['Film-Noir', 'Sci-Fi']"
+1267,3.071330022075055,"Manchurian Candidate, The (1962)","['Film-Noir', 'Thriller']"
+1617,3.0672263001898763,L.A. Confidential (1997),"['Crime', 'Film-Noir', 'Mystery', 'Thriller']"
+1284,3.0455399921655997,"Big Sleep, The (1946)","['Film-Noir', 'Mystery']"
+2186,3.0374258745294163,Strangers on a Train (1951),"['Film-Noir', 'Thriller']"
+930,3.0281700647369596,Notorious (1946),"['Film-Noir', 'Romance', 'Thriller']"

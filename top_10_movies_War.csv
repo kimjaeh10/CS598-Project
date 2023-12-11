@@ -1,0 +1,11 @@
+MovieID,Score,Title,Genres
+527,3.271728752759382,Schindler's List (1993),"['Drama', 'War']"
+750,3.1828205404593612,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),"['Sci-Fi', 'War']"
+912,3.171872785385229,Casablanca (1942),"['Drama', 'Romance', 'War']"
+2028,3.1679192804347447,Saving Private Ryan (1998),"['Action', 'Drama', 'War']"
+1196,3.1535935458149686,Star Wars: Episode V - The Empire Strikes Back (1980),"['Action', 'Adventure', 'Drama', 'Sci-Fi', 'War']"
+1178,3.1431629714943847,Paths of Glory (1957),"['Drama', 'War']"
+1204,3.122622608203632,Lawrence of Arabia (1962),"['Adventure', 'War']"
+1250,3.1174849263615694,"Bridge on the River Kwai, The (1957)","['Drama', 'War']"
+1262,3.0980752835502776,"Great Escape, The (1963)","['Adventure', 'War']"
+110,3.0858109736427637,Braveheart (1995),"['Action', 'Drama', 'War']"

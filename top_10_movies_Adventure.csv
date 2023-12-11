@@ -1,0 +1,11 @@
+MovieID,Score,Title,Genres
+3172,3.5000496688741722,Ulysses (Ulisse) (1954),['Adventure']
+260,3.266145694257164,Star Wars: Episode IV - A New Hope (1977),"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']"
+1198,3.259274868682398,Raiders of the Lost Ark (1981),"['Action', 'Adventure']"
+2905,3.22951410883962,Sanjuro (1962),"['Action', 'Adventure']"
+1196,3.1535935458149686,Star Wars: Episode V - The Empire Strikes Back (1980),"['Action', 'Adventure', 'Drama', 'Sci-Fi', 'War']"
+1197,3.1277295167677086,"Princess Bride, The (1987)","['Action', 'Adventure', 'Comedy', 'Romance']"
+1204,3.122622608203632,Lawrence of Arabia (1962),"['Adventure', 'War']"
+1262,3.0980752835502776,"Great Escape, The (1963)","['Adventure', 'War']"
+919,3.0589050489942866,"Wizard of Oz, The (1939)","['Adventure', ""Children's"", 'Drama', 'Musical']"
+3470,3.032830405989058,Dersu Uzala (1974),"['Adventure', 'Drama']"

@@ -1,0 +1,11 @@
+MovieID,Score,Title,Genres
+260,3.266145694257164,Star Wars: Episode IV - A New Hope (1977),"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']"
+1097,2.888326705465838,E.T. the Extra-Terrestrial (1982),"[""Children's"", 'Drama', 'Fantasy', 'Sci-Fi']"
+792,2.800049668874172,"Hungarian Fairy Tale, A (1987)",['Fantasy']
+2797,2.7731173242545784,Big (1988),"['Comedy', 'Fantasy']"
+1073,2.7681855288177823,Willy Wonka and the Chocolate Factory (1971),"['Adventure', ""Children's"", 'Comedy', 'Fantasy']"
+247,2.7297717175503626,Heavenly Creatures (1994),"['Drama', 'Fantasy', 'Romance', 'Thriller']"
+2872,2.7057222291640635,Excalibur (1981),"['Action', 'Drama', 'Fantasy', 'Romance']"
+2138,2.704985072196287,Watership Down (1978),"['Animation', ""Children's"", 'Drama', 'Fantasy']"
+2968,2.636007147072323,Time Bandits (1981),"['Adventure', 'Fantasy', 'Sci-Fi']"
+1019,2.620385689605528,"20,000 Leagues Under the Sea (1954)","['Adventure', ""Children's"", 'Fantasy', 'Sci-Fi']"
